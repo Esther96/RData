@@ -1,0 +1,1 @@
+				Company integration		Barrier	Both	Intra-organizational	Extra-organizational			Complexity of existing infrastructure	10	8	5Cost	9	0	0Hardware limitation	3	0	0Increased need for security	2	0	0Missing or insufficient documentation	3	0	0
