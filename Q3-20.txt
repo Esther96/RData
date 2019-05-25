@@ -1,4 +1,4 @@
-	Both	Extra-organisation	Intra-organisational
+	Both	Extra-organisational	Intra-organisational
 Complexity of existing infrastructure	10	8	5
 Cost	9	0	0
 Hardware limitation	3	0	0
