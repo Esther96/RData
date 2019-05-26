@@ -1,1 +1,4 @@
-Integration	Streamlined business processes	Productivity	 Communication 	Data accuracy1	6	6	3	62	16	24	21	223	3	9	7	0				
+Integration	Streamlined business processes	Productivity	 Communication 	Data accuracy
+1	6	6	3	6
+2	16	24	21	22
+3	3	9	7	0			
